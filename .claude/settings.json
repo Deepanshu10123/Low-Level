@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/week3_creational_patterns/singleton_practice.cpp' -o '/c/Users/deepan2/Desktop/Low Level/week3_creational_patterns/singleton_practice.exe')",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/week3_creational_patterns/singleton_practice.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/week3_creational_patterns/vending_machine.cpp' -o '/c/Users/deepan2/Desktop/Low Level/week3_creational_patterns/vending_machine.exe')",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/01_classes_and_objects.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/01_classes_and_objects.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/01_classes_and_objects.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/02_encapsulation.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/02_encapsulation.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/02_encapsulation.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/03_constructors_and_destructors.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/03_constructors_and_destructors.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/03_constructors_and_destructors.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/04_inheritance.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/04_inheritance.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/04_inheritance.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/05_polymorphism.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/05_polymorphism.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/05_polymorphism.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/06_abstract_classes_and_interfaces.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/06_abstract_classes_and_interfaces.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/06_abstract_classes_and_interfaces.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/07_composition_vs_inheritance.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/07_composition_vs_inheritance.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/07_composition_vs_inheritance.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/08_solid_s_single_responsibility.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/08_solid_s_single_responsibility.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/08_solid_s_single_responsibility.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/09_solid_o_open_closed.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/09_solid_o_open_closed.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/09_solid_o_open_closed.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/11_solid_i_interface_segregation.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/11_solid_i_interface_segregation.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/11_solid_i_interface_segregation.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/12_solid_d_dependency_inversion.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/12_solid_d_dependency_inversion.exe')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/12_solid_d_dependency_inversion.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/14_singleton.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/14_singleton.exe')",
+      "Bash(grep -n \"class Counter\" -A4 \"/c/Users/deepan2/Desktop/Low Level/practice/14_singleton.cpp\")",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/14_singleton.exe\")",
+      "Bash(/c/Users/deepan2/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -Wall '/c/Users/deepan2/Desktop/Low Level/practice/15_factory_method.cpp' -o '/c/Users/deepan2/Desktop/Low Level/practice/15_factory_method.exe')",
+      "Bash(sed -n '/^int main/,$p' '/c/Users/deepan2/Desktop/Low Level/practice/15_factory_method.cpp')",
+      "Bash(\"/c/Users/deepan2/Desktop/Low Level/practice/15_factory_method.exe\")",
+      "Bash(sed -n '1,10p;/^unique_ptr\\\\|^Product\\\\* create/,$p' '/c/Users/deepan2/Desktop/Low Level/practice/15_factory_method.cpp')"
+    ]
+  }
+}
