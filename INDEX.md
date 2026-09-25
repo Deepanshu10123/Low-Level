@@ -33,16 +33,16 @@ static, etc.), not LLD concepts themselves.
 |---|---|---|---|
 | ✅ | Singleton | [theory](theory/14_singleton.md) | [practice](practice/14_singleton.cpp) |
 | ✅ | Factory Method | [theory](theory/15_factory_method.md) | [practice](practice/15_factory_method.cpp) |
-| 🔶 | Abstract Factory | | |
-| ⬜ | Builder | | |
-| ⬜ | Prototype | | |
+| ✅ | Abstract Factory | [theory](theory/16_abstract_factory.md) | [practice](practice/16_abstract_factory.cpp) |
+| ✅ | Builder | [theory](theory/17_builder.md) | [practice](practice/17_builder.cpp) |
+| ✅ | Prototype | [theory](theory/18_prototype.md) | [practice](practice/18_prototype.cpp) |
 
 ## Structural Patterns
 | Status | Topic | Theory | Practice |
 |---|---|---|---|
-| ⬜ | Adapter | | |
-| ⬜ | Decorator | | |
-| ⬜ | Facade | | |
+| ✅ | Adapter | [theory](theory/19_adapter.md) | [practice](practice/19_adapter.cpp) |
+| ✅ | Decorator | [theory](theory/20_decorator.md) | [practice](practice/20_decorator.cpp) |
+| 🔶 | Facade | | |
 | ⬜ | Composite | | |
 | ⬜ | Proxy | | |
 
