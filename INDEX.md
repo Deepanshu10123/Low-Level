@@ -42,8 +42,8 @@ static, etc.), not LLD concepts themselves.
 |---|---|---|---|
 | ✅ | Adapter | [theory](theory/19_adapter.md) | [practice](practice/19_adapter.cpp) |
 | ✅ | Decorator | [theory](theory/20_decorator.md) | [practice](practice/20_decorator.cpp) |
-| 🔶 | Facade | | |
-| ⬜ | Composite | | |
+| ✅ | Facade | [theory](theory/21_facade.md) | [practice](practice/21_facade.cpp) |
+| 🔶 | Composite | | |
 | ⬜ | Proxy | | |
 
 ## Behavioral Patterns
