@@ -9,7 +9,9 @@ using namespace std;
 
 // STEP 1: write ONLY the Image interface — ONE pure virtual method,
 // display(), plus a virtual destructor. Nothing else yet, no RealImage.
+class Image{
 
+};
 int main() {
     return 0;
 }
